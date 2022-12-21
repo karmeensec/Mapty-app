@@ -11,11 +11,6 @@ Track your workouts with a real world map, access your location, explore your ru
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
 
 Go to the project directory
 
